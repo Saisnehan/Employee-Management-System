@@ -1,6 +1,4 @@
 
-
-
 🧑‍💼 Employee Management System
 The Employee Management System (EMS) is a web-based application designed to manage employee information efficiently within an organization. It helps administrators store, update, track, and manage employee records digitally, reducing manual work and improving accuracy.
 
